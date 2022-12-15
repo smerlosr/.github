@@ -1,0 +1,8 @@
+{
+    "name": "Java Workflow",
+    "description": "Java CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ]
+}

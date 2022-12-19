@@ -1,0 +1,8 @@
+{
+    "name": "Organization Workflow",
+    "description": "Lib CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ]
+}
